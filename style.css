@@ -1,0 +1,26 @@
+body{
+    background-image: url(aaASas.png);
+}
+div{
+    
+margin-left: 500px;
+}
+#inp{
+    width: 250px;
+    height: 30px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 12px;
+    padding-left: 10px;
+
+}
+.hh{
+    
+    height: 35px;
+    border: 2px solid rgb(39, 37, 37);
+    border-radius: 12px;
+}
+h1{
+    color: rgb(40, 41, 41);
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
